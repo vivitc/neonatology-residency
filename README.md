@@ -7,6 +7,7 @@ This project is meant to give the ability to Neonatology residents of San Simon 
     Python 2.7.9
     Flask 0.10.1
     gunicorn 19.3.0
+    HTML5 Boilerplate
 
 Locally using pyenv to control the python version and dependencies
 
